@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+We will create a little voting app from scratch using a web development framework for Ruby called Rails. Think what your first application should be about – ideally something simple that includes a collection of some sort: e.g., a to-do list, a diary, etc. We’ll use a diary as the base here.
